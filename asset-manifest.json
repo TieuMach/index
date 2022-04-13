@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78a27f8f.css",
+    "main.js": "/static/js/main.20d05c8d.js",
+    "static/media/Poppy.png": "/static/media/Poppy.504807e9f9813318720b.png",
+    "static/media/MachHaiHung.pdf": "/static/media/MachHaiHung.5838f068fe73568cb219.pdf",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.490d4e629c4c471b812d.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/bg1.png": "/static/media/bg1.ebe307edc43d6fddfc9c.png",
+    "index.html": "/index.html",
+    "main.78a27f8f.css.map": "/static/css/main.78a27f8f.css.map",
+    "main.20d05c8d.js.map": "/static/js/main.20d05c8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78a27f8f.css",
+    "static/js/main.20d05c8d.js"
+  ]
+}
